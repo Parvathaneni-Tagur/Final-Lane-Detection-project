@@ -1,0 +1,17 @@
+To install all the required dependencies
+
+
+pip install numpy opencv-python matplotlib moviepy --user
+
+
+
+
+To get the output
+
+
+python lane_lines.py -i challenge.mp4 -o extra.mp4
+
+
+
+
+
